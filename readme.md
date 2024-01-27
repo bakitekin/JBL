@@ -20,4 +20,4 @@ JBL Web Sitesi, JBL ürünleri hakkında bilgi sunan, favori modelleri gösteren
 
 ## gif
 
-<img src="screen.gif"># JBL
+<img src="/images/screen.gifscreen.gif"># 
